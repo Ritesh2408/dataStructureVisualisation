@@ -33,8 +33,9 @@
 
 - C  
 - OpenGL
+- GL Utility Toolkit
 
-#### Working Application 
+#### Working Application (Some features)
 
 - Insert in BST
 
@@ -42,5 +43,37 @@
 
 - Preorder Traversal
 
-<!-- <img src="Gifs/preOrder.gif" width="700" height="400"/> -->
+<img src="Gifs/preOrder.gif" width="700" height="400"/>
  
+ - InOrder Traversal
+
+<img src="Gifs/inOrder.gif" width="700" height="400"/>
+
+- Delete BST
+
+<img src="Gifs/deleteBST.gif" width="700" height="400"/>
+
+#### Screenshots
+
+- Linked List 
+
+<img src="Images/LL.png" width="700" height="400"/>
+
+- Doubly Linked List
+
+<img src="Images/DLL.png" width="700" height="400"/>
+
+- BST 
+
+<img src="Images/BST.png" width="700" height="400"/>
+
+#### Motivation 
+
+- [VisualALgo.net](https://visualgo.net/en)
+- [SortingAlgo Visualizer](https://github.com/Ritesh2408/Sorting_Algorithm_Visualizer)
+
+#### References
+
+- [GLUT Docs](http://freeglut.sourceforge.net/docs/api.php) 
+- [OpenGL Docs](https://docs.gl/) 
+- [GeeksforGeeks](https://www.geeksforgeeks.org/getting-started-with-opengl/)
