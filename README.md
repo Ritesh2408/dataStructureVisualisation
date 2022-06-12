@@ -38,5 +38,9 @@
 
 - Insert in BST
 
-<img src="Gifs/insertBST.gif" width="750" height="380"/>
+<img src="Gifs/insertBST.gif" width="700" height="400"/>
+
+- Preorder Traversal
+
+<!-- <img src="Gifs/preOrder.gif" width="700" height="400"/> -->
  
