@@ -38,5 +38,5 @@
 
 - Insert in BST
 
-<!-- <img src="Gifs/insertBST.gif" width="750" height="380"/> -->
+<img src="Gifs/insertBST.gif" width="750" height="380"/>
  
