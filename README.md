@@ -35,6 +35,11 @@
 - OpenGL
 - GL Utility Toolkit
 
+#### Flow of application
+
+<img src="Images/flow.jpg" width="700" height="400"/>
+
+
 #### Working Application (Some features)
 
 - Insert in BST
